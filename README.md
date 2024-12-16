@@ -1,7 +1,7 @@
 # Snort IDS and IPS 2
 
 <h2>Description</h2>
-In this task, I used wireshark to examine a sample pcap where an endpoint user was infected by a qakbot malware and found IOCs. 
+In this task, I wrote various snort rules to alert for specific content types like: SSLoad, .exe, and applicaiton/x-msdownload.
 
 
 <h2>Languages and Utilities Used</h2>
